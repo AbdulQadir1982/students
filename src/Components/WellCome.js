@@ -10,6 +10,7 @@ function WellCome() {
     <>
     <div>
     <h1>Well Come To StudentPage</h1>
+    <h1>zia</h1>
     <button onClick={() => navigate('/StudentCard')}>Click Here</button>
     </div>
     </>
